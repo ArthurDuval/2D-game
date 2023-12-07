@@ -34,7 +34,7 @@ To get started with the game, follow the instructions in the [Installation](#ins
 
 ## Dependencies
 
-- List any external libraries, frameworks, or tools required to run the game.
+- JDK Development Kit
 
 ## Installation
 

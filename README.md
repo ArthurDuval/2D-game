@@ -10,7 +10,6 @@ Welcome to the Pokemon-Like 2D Game repository! This project is a simple game in
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 

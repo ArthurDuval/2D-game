@@ -39,7 +39,7 @@ To get started with the game, follow the instructions in the [Installation](#ins
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/pokemon-like-2d-game.git
+   git clone git@github.com:ArthurDuval/2D-game.git
    ```
 
 2. Install dependencies (if any).
@@ -51,7 +51,7 @@ To get started with the game, follow the instructions in the [Installation](#ins
 
 1. Navigate to the project directory.
    ```bash
-   cd pokemon-like-2d-game
+   cd 2D-game/src/
    ```
 
 2. Run the game executable.

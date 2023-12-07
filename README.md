@@ -64,5 +64,3 @@ To get started with the game, follow the instructions in the [Installation](#ins
 Feel free to contribute by submitting bug reports, feature requests, or pull requests. For major changes, please open an issue first to discuss the proposed changes.
 
 ---
-
-Feel free to customize this template based on your specific project details and requirements. Good luck with your game development!

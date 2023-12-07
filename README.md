@@ -59,9 +59,7 @@ To get started with the game, follow the instructions in the [Installation](#ins
    ```bash
    javac entity/*.java main/*.java monster/*.java object/*.java tile/*.java && java main.Main
    ```
-
-3. Follow the on-screen instructions to play the game.
-
+   
 ## Contributing
 
 Feel free to contribute by submitting bug reports, feature requests, or pull requests. For major changes, please open an issue first to discuss the proposed changes.

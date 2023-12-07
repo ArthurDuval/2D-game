@@ -45,7 +45,7 @@ To get started with the game, follow the instructions in the [Installation](#ins
 
 2. Install dependencies (if any).
    ```bash
-   # Command to install dependencies
+   sudo apt install default-jdk
    ```
 
 ## Usage

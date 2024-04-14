@@ -56,7 +56,7 @@ To get started with the game, follow the instructions in the [Installation](#ins
 
 2. Run the game executable.
    ```bash
-   javac entity/*.java main/*.java monster/*.java object/*.java tile/*.java && java main.Main
+   javac entity/*.java main/*.java monster/*.java object/*.java tile/*.java && java -Dsun.java2d.opengl=true main.Main
    ```
    
 ## Contributing
